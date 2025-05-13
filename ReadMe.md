@@ -21,7 +21,7 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/31ealgwnqjjdluyufiesw4sjxdsi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ealgwnqjjdluyufiesw4sjxdsi&count=3" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ealgwnqjjdluyufiesw4sjxdsi&count=2" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -72,8 +72,6 @@
 
 
 ###
-
-<br clear="both">
 
 <div align="left">
 <img height="150" src="/pic/tina1.png" alt="tina"/>
