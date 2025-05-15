@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VanitasXciel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=neon&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31ealgwnqjjdluyufiesw4sjxdsi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ealgwnqjjdluyufiesw4sjxdsi&count=2" alt="Spotify recently played"  />
   </a>
