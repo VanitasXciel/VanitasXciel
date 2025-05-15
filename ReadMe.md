@@ -74,9 +74,6 @@
 
 ###
 
-<div align="left">
-<img height="150" src="/pic/tina1.png" alt="tina"/>
-<div>
   
 <img src="https://raw.githubusercontent.com/VanitasXciel/VanitasXciel/output/snake.svg" alt="Snake animation" />
 
