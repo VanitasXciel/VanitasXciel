@@ -19,11 +19,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61572195984997&mibextid=rS40aB7S9Ucbxw6v) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vanitase_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cielvnst) 
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31ealgwnqjjdluyufiesw4sjxdsi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ealgwnqjjdluyufiesw4sjxdsi&count=2" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 <h2 align="left">I code with :</h2>
 
@@ -56,6 +52,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VanitasXciel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=neon&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
+<div align="left">
+  <a href="https://open.spotify.com/user/31ealgwnqjjdluyufiesw4sjxdsi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ealgwnqjjdluyufiesw4sjxdsi&count=2" alt="Spotify recently played"  />
+  </a>
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VanitasXciel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false&order=2" height="150" alt="languages graph"  />
 
