@@ -12,7 +12,7 @@
 
 ### 
 
-<p align="left">✨ I just make this my side hobby...<br>📚 I'm currently learning ...</p>
+<p align="left">✨ I just make this my side hobb <br>📚 I'm currently learning python</p>
 
 ###
 ## Connect with me : 
